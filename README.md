@@ -1,5 +1,5 @@
-# Simple Collision detection used in this snake game
-# Coded in Python
+### Simple Collision detection used in this snake game
+### Coded in Python
 
 ## Gameplay
 
